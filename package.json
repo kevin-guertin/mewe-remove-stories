@@ -1,6 +1,6 @@
 {
   "name": "mewe-remove-stories",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Userstyle for MeWe.com to hide the Stories feature from the top of your stream and the right sidebar. That's it. Nice and simple.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
