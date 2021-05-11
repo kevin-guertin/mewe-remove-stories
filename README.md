@@ -6,11 +6,17 @@ _A Userstyle for MeWe.com to hide the Stories feature from the top of your strea
 
 ## Installation
 
-A Userstyle extension is required, I recommend using **_Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)_**.
+A Userstyle extension is required. I highly recommend using **_Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)_**.
 
 Then, click on the "📦 UserCSS file" link above, then click "Install style" on the left. I highly recommend enabling checking for updates.
 
-Refresh any MeWe tabs.
+Refresh any MeWe tabs if the style did not take effect immediately.
+
+## Issues
+
+### Not working anymore or something is broken?
+
+Report any issues [here](https://github.com/kevin-guertin/mewe-remove-stories/issues).
 
 ## License
 
