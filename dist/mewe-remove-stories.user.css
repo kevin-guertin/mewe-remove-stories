@@ -1,0 +1,5 @@
+@-moz-document domain("mewe.com") {
+    .stories-mobile-view, .c-sidebar-tellers {
+        display: none;
+    }
+}
