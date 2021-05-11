@@ -1,0 +1,18 @@
+{
+  "name": "mewe-remove-stories",
+  "version": "0.0.1",
+  "description": "A Userstyle for MeWe.com to hide the Stories feature from the top of your stream and the right sidebar. That's it. Nice and simple.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-guertin/mewe-remove-stories.git"
+  },
+  "author": "kevin-guertin (https://kevin-guertin.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-guertin/mewe-remove-stories/issues"
+  },
+  "homepage": "https://github.com/kevin-guertin/mewe-remove-stories#readme"
+}
