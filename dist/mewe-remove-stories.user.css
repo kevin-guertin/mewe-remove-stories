@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         MeWe - Remove Stories
 @namespace    https://kevin-guertin.github.io
-@version      0.0.4
+@version      0.0.5
 @description  A Userstyle for MeWe.com to hide the Stories feature from the top of your stream and the right sidebar. That's it. Nice and simple.
 @author       kevin-guertin (https://kevin-guertin.github.io)
 @homepageURL  https://github.com/kevin-guertin/mewe-remove-stories
@@ -12,7 +12,7 @@
 ==/UserStyle== */
 
 @-moz-document domain("mewe.com") {
-    .stories-mobile-view, .c-sidebar-tellers {
+    .c-mw-stories-list, .c-sidebar-tellers {
         display: none;
     }
 }
